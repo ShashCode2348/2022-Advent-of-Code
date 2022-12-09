@@ -25,4 +25,4 @@ for line in lines:
         posT.add(T[0])
         pos9.add(T[8])
 print("P1:", len(posT))
-print("P1:", len(pos9))    
+print("P2:", len(pos9))    
